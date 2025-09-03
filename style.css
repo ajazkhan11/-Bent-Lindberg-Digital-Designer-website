@@ -27,7 +27,6 @@ body {
   z-index: 1000;
 }
 
-
 #nav h3:first-child {
   border-radius: 60px;
 }
@@ -243,22 +242,22 @@ body {
   font-size: 140px;
 }
 
-.camera-section #text-para {
+.camera-section .text-para {
   width: 40%;
   line-height: 35px;
 }
 
-.camera-section #text-para p {
+.camera-section .text-para p {
   font-size: 20px;
   color: #5e5d5e;
 }
 
-.camera-section #text-para #sub-h4 {
+.camera-section .text-para .sub-h4 {
   display: flex;
   gap: 15px;
 }
 
-.camera-section #text-para #sub-h4 h4 {
+.camera-section .text-para .sub-h4 h4 {
   background-color: #1e1e21;
   color: white;
   border-radius: 100px;
